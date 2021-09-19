@@ -34,3 +34,6 @@ https://qiita.com/akiyama01/items/4dcaf889aad8883b4364
 
 wordpressのSampleThemeを生成してくれるサイト  
 https://underscores.me/
+
+WordPressオリジナルテーマを作る方法  
+https://webst8.com/blog/wordpress-theme-howto-make/
